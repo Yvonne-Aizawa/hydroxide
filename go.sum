@@ -10,6 +10,8 @@ github.com/emersion/go-bcrypt v0.0.0-20170822072041-6e724a1baa63 h1:7aCSuwTBzg7B
 github.com/emersion/go-bcrypt v0.0.0-20170822072041-6e724a1baa63/go.mod h1:eRwwJnuLVFtYTC+AI2JDJTMcuQUTYhBIK4I6bC5tpqw=
 github.com/emersion/go-ical v0.0.0-20200224201310-cd514449c39e h1:YGM1sI7edZOt8KAfX9Miq/X99d2QXdgjkJ7vN4HjxAA=
 github.com/emersion/go-ical v0.0.0-20200224201310-cd514449c39e/go.mod h1:4xVTBPcT43a1pp3vdaa+FuRdX5XhKCZPpWv7m0z9ByM=
+github.com/emersion/go-ical v0.0.0-20220601085725-0864dccc089f h1:feGUUxxvOtWVOhTko8Cbmp33a+tU0IMZxMEmnkoAISQ=
+github.com/emersion/go-ical v0.0.0-20220601085725-0864dccc089f/go.mod h1:2MKFUgfNMULRxqZkadG1Vh44we3y5gJAtTBlVsx1BKQ=
 github.com/emersion/go-imap v1.0.5 h1:8xg/d2wo2BBP3AEP5AOaM/6i8887RGyVW2st/IVHWUw=
 github.com/emersion/go-imap v1.0.5/go.mod h1:yKASt+C3ZiDAiCSssxg9caIckWF/JG7ZQTO7GAmvicU=
 github.com/emersion/go-imap-move v0.0.0-20190710073258-6e5a51a5b342 h1:5p1t3e1PomYgLWwEwhwEU5kVBwcyAcVrOpexv8AeZx0=
@@ -36,6 +38,8 @@ github.com/emersion/go-vcard v0.0.0-20191221110513-5f81fa0d3cc7 h1:SE+tcd+0kn0cT
 github.com/emersion/go-vcard v0.0.0-20191221110513-5f81fa0d3cc7/go.mod h1:HMJKR5wlh/ziNp+sHEDV2ltblO4JD2+IdDOWtGcQBTM=
 github.com/emersion/go-vcard v0.0.0-20200508080525-dd3110a24ec2 h1:g1RgqggIPPkEBubnOxAbIglxjMsP0aHPO2ryigBHu2s=
 github.com/emersion/go-vcard v0.0.0-20200508080525-dd3110a24ec2/go.mod h1:HMJKR5wlh/ziNp+sHEDV2ltblO4JD2+IdDOWtGcQBTM=
+github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9 h1:ATgqloALX6cHCranzkLb8/zjivwQ9DWWDCQRnxTPfaA=
+github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9/go.mod h1:HMJKR5wlh/ziNp+sHEDV2ltblO4JD2+IdDOWtGcQBTM=
 github.com/emersion/go-webdav v0.3.0 h1:I1J9xf7fa1NxXFWCKyN5Ju3Sa3jJeNMI3uJQKHYg0SY=
 github.com/emersion/go-webdav v0.3.0/go.mod h1:uSM1VveeKtogBVWaYccTksToczooJ0rrVGNsgnDsr4Q=
 github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c h1:aY2hhxLhjEAbfXOx2nRJxCXezC6CO2V/yN+OCr1srtk=
@@ -57,6 +61,9 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+github.com/teambition/rrule-go v1.7.2/go.mod h1:mBJ1Ht5uboJ6jexKdNUJg2NcwP8uUMNvStWXlJD3MvU=
+github.com/teambition/rrule-go v1.8.2 h1:lIjpjvWTj9fFUZCmuoVDrKVOtdiyzbzc93qTmRVe/J8=
+github.com/teambition/rrule-go v1.8.2/go.mod h1:Ieq5AbrKGciP1V//Wq8ktsTXwSwJHDD5mD/wLBGl3p4=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/sys v0.0.0-20190412213103-97732733099d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200915050820-6d893a6b696e h1:RGS7MuoO4EeRp68J5OWuANAi5oVYtLRl+3LoD5fkMns=

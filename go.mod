@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/emersion/go-bcrypt v0.0.0-20170822072041-6e724a1baa63
-	github.com/emersion/go-ical v0.0.0-20200224201310-cd514449c39e
+	github.com/emersion/go-ical v0.0.0-20220601085725-0864dccc089f
 	github.com/emersion/go-imap v1.0.5
 	github.com/emersion/go-imap-move v0.0.0-20190710073258-6e5a51a5b342
 	github.com/emersion/go-imap-specialuse v0.0.0-20200722111535-598ff00e4075
@@ -13,7 +13,7 @@ require (
 	github.com/emersion/go-message v0.12.0
 	github.com/emersion/go-smtp v0.14.0
 	github.com/emersion/go-textwrapper v0.0.0-20200911093747-65d896831594 // indirect
-	github.com/emersion/go-vcard v0.0.0-20200508080525-dd3110a24ec2
+	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
 	github.com/emersion/go-webdav v0.3.0
 	github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c
 	github.com/kr/pretty v0.1.0 // indirect
